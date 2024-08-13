@@ -1,0 +1,18 @@
+{
+  "login" :  "লগইন করুন",
+  "noInternetConnection" : "ইন্টারনেট সংযোগ নেই",
+  "email" : "ইমেইল",
+  "password" : "পাসওয়ার্ড",
+  "iAcceptAllTermsOfThisService" : "আমি এই পরিষেবার সমস্ত শর্ত স্বীকার করি",
+  "cart" : "কার্ট",
+  "noCartItem" : "কার্ট আইটেম নেই",
+  "total" : "মোট",
+  "order" : "অর্ডার",
+  "stock" : "স্টক",
+  "masterPack" : "মাস্টার প্যাক",
+  "edit" : "সম্পাদনা",
+  "orderConfirm" : "অর্ডার কনফার্ম",
+  "searchProduct" : "পণ্য অনুসন্ধান করুন",
+  "allProduct" : "সমস্ত পণ্য",
+  "checkoutConfirmScreen" : "চেকআউট কনফার্ম স্ক্রীন"
+}

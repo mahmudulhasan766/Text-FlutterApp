@@ -1,0 +1,18 @@
+{
+  "login" :  "Login",
+  "noInternetConnection" : "ইন্টারনেট সংযোগ নেই",
+  "email" : "Email",
+  "password" : "Password",
+  "iAcceptAllTermsOfThisService" : "I accept all terms of this service",
+  "cart" : "Cart",
+  "noCartItem" : "No cart item",
+  "total" : "Total",
+  "order" : "Order",
+  "stock" : "Stock",
+  "masterPack" : "Master Pack",
+  "edit" : "Edit",
+  "orderConfirm" : "Order Confirm",
+  "searchProduct" : "Search product",
+  "allProduct" : "All Product",
+  "checkoutConfirmScreen" : "Checkout Confirm Screen",
+}

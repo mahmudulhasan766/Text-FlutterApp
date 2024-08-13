@@ -1,0 +1,29 @@
+class AppStrings {
+  static const String register = "register";
+  static const String home = "home";
+  static const String noContent = "noContent";
+  static const String badRequestError = "badRequestError";
+  static const String forbiddenError = "forbiddenError";
+  static const String unauthorizedError = "unauthorizedError";
+  static const String notFoundError = "notFoundError";
+  static const String internalServerError = "internalServerError";
+  static const String defaultError = "defaultError";
+  static const String timeoutError = "timeoutError";
+  static const String noInternetError = "noInternetError";
+  static const String login = "login";
+  static const String noInternetConnection = "noInternetConnection";
+  static const String email = "email";
+  static const String password = "password";
+  static const String iAcceptAllTermsOfThisService = "iAcceptAllTermsOfThisService";
+  static const String cart = "cart";
+  static const String noCartItem = "noCartItem";
+  static const String total = "total";
+  static const String order = "order";
+  static const String stock = "stock";
+  static const String masterPack = "masterPack";
+  static const String edit = "edit";
+  static const String orderConfirm = "orderConfirm";
+  static const String searchProduct = "searchProduct";
+  static const String allProduct = "allProduct";
+  static const String checkoutConfirmScreen = "checkoutConfirmScreen";
+}
